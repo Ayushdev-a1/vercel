@@ -1,4 +1,4 @@
-# Vercel Prototyp
+# Vercel Prototype
 
 
 
